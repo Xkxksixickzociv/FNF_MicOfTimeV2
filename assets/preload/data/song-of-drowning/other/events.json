@@ -1,0 +1,83 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "forest",
+		"player1": "bf",
+		"player2": "bentp2",
+		"events": [
+			[
+				0,
+				[
+					[
+						"Play Animation",
+						"tp",
+						"dad"
+					]
+				]
+			],
+			[
+				2027.02702702703,
+				[
+					[
+						"Change Character",
+						"dad",
+						"bentp"
+					]
+				]
+			],
+			[
+				3972.97297297297,
+				[
+					[
+						"tween zoom (start)",
+						"1.9",
+						"1.3"
+					]
+				]
+			],
+			[
+				5108.10810810811,
+				[
+					[
+						"Change Character",
+						"dad",
+						"ben"
+					],
+					[
+						"static",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				5189.18918918919,
+				[
+					[
+						"tween zoom (end)",
+						"",
+						""
+					]
+				]
+			],
+			[
+				77837.8378378378,
+				[
+					[
+						"tween zoom (end)",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 185,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "song-of-drowning"
+	}
+}
