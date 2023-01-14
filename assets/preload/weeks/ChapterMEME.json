@@ -1,0 +1,26 @@
+{
+	"songs": [
+		["Sarrow", "sarrow", [69, 75, 27]],
+		["Type 2 Diabets", "monk", [69, 75, 27]],
+		["Sod Old", "oldben", [69, 75, 27]],
+		["djownd", "face", [69, 75, 27]],
+		["Emptiness", "ben", [69, 75, 27]],
+		["Moyai", "monk", [69, 75, 27]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "chaptermeme",
+	"difficulties": "Hard",
+
+	"storyName": "ChapterDIABETES",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

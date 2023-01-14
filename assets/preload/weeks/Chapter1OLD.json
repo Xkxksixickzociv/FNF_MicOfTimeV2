@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Song Of Drowning V1", "ben1", [69, 75, 27]],
+		["Fate V1", "bendead", [69, 75, 27]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "chapter1",
+	"difficulties": "Hard",
+
+	"storyName": "Chapter1 old wtf?",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

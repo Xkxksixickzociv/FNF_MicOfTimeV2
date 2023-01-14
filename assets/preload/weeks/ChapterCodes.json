@@ -1,0 +1,26 @@
+{
+	"songs": [
+		["Grab", "and", [160, 209, 255]],
+		["Snatch", "and", [160, 209, 255]],
+		["Absent", "papito", [144, 238, 144]],
+		["Sussus Drownus", "sus", [69, 75, 27]],
+		["Drip or Drown", "drip", [69, 75, 27]],
+		["Ballad of Darkness", "awake", [69, 75, 27]]
+	],
+
+	"weekCharacters": [
+		"parents-christmas",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "christmas",
+	"difficulties": "Hard",
+
+	"storyName": "RED SNOW",
+	"weekBefore": "week4",
+	"weekName": "Week 5",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

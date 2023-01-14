@@ -1,0 +1,24 @@
+{
+	"songs": [
+		["Vanity", "matt1", [165, 42, 42]],
+		["Double Homicide", "matt1", [165, 42, 42]],
+		["Fierce", "Jadu", [44, 76, 156]],
+		["Showdown", "Jadu", [44, 76, 156]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "chapter2",
+	"difficulties": "Hard",
+
+	"storyName": "Chapter2",
+	"weekBefore": "week1",
+	"weekName": "Week 2",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

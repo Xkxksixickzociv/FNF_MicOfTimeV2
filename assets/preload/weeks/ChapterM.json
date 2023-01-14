@@ -1,0 +1,24 @@
+{
+	"songs": [
+		["Terminal", "skull", [148, 0, 211]],
+		["Tatl-tael", "skull", [148, 0, 211]],
+		["Moonfall", "skull", [148, 0, 211]],
+		["Lackadaisical", "skull", [148, 0, 211]]
+	],
+	
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "majora",
+	"difficulties": "Hard",
+
+	"storyName": "Majora Mask",
+	"weekBefore": "week3",
+	"weekName": "Week 4",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
