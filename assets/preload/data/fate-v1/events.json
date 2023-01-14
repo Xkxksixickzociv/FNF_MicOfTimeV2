@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "forest",
+		"player1": "bf-dark",
+		"player2": "ben",
+		"player3": null,
+		"events": [
+			[
+				16022.7272727273,
+				[
+					[
+						"Image Flash",
+						"black",
+						"5.68"
+					]
+				]
+			],
+			[
+				109636.363636363,
+				[
+					[
+						"Image Flash",
+						"black",
+						"21.25"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 220,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "fate"
+	}
+}
