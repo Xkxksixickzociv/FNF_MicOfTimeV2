@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Static.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="StaticOV0000" x="10" y="10" width="1280" height="720"/>
+	<SubTexture name="StaticOV0001" x="1300" y="10" width="1280" height="720"/>
+	<SubTexture name="StaticOV0002" x="2590" y="10" width="1280" height="720"/>
+	<SubTexture name="StaticOV0003" x="10" y="740" width="1280" height="720"/>
+	<SubTexture name="StaticOV0004" x="1300" y="740" width="1280" height="720"/>
+	<SubTexture name="StaticOV0005" x="2590" y="740" width="1280" height="720"/>
+	<SubTexture name="StaticOV0006" x="10" y="1470" width="1280" height="720"/>
+	<SubTexture name="StaticOV0007" x="1300" y="1470" width="1280" height="720"/>
+	<SubTexture name="StaticOV0008" x="2590" y="1470" width="1280" height="720"/>
+	<SubTexture name="StaticOV0009" x="10" y="2200" width="1280" height="720"/>
+	<SubTexture name="StaticOV0010" x="1300" y="2200" width="1280" height="720"/>
+	<SubTexture name="StaticOV0011" x="2590" y="2200" width="1280" height="720"/>
+</TextureAtlas>
