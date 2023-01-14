@@ -1,0 +1,174 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": null,
+		"player1": "bf",
+		"player2": "Jadu",
+		"player3": null,
+		"events": [
+			[
+				5303.86740331492,
+				[
+					[
+						"DodgeMechanic",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				18232.044198895,
+				[
+					[
+						"DodgeMechanic",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				25856.3535911602,
+				[
+					[
+						"DodgeMechanic",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				34475.138121547,
+				[
+					[
+						"DodgeMechanic",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				44502.7624309392,
+				[
+					[
+						"DodgeMechanic",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				49806.6298342541,
+				[
+					[
+						"DodgeMechanic",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				65635.3591160221,
+				[
+					[
+						"DodgeMechanic",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				75580.1104972375,
+				[
+					[
+						"DodgeMechanic",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				85607.7348066298,
+				[
+					[
+						"DodgeMechanic",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				88176.7955801105,
+				[
+					[
+						"DodgeMechanic",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				90828.7292817679,
+				[
+					[
+						"DodgeMechanic",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				93480.6629834254,
+				[
+					[
+						"DodgeMechanic",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				106077.348066298,
+				[
+					[
+						"DodgeMechanic",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				116685.082872928,
+				[
+					[
+						"DodgeMechanic",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				127292.817679558,
+				[
+					[
+						"Add Camera Zoom",
+						"0.04",
+						"0.02"
+					],
+					[
+						"DodgeMechanic",
+						"true",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 181,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "feirce"
+	}
+}
