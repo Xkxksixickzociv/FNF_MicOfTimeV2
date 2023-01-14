@@ -1,0 +1,3 @@
+add (object) at random places
+
+(1,10)
