@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "swimmy",
+		"player1": "bf-swim",
+		"player2": "flying baka",
+		"player3": null,
+		"events": [
+			[
+				38441.25,
+				[
+					[
+						"Space Bar Mash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				57639.375,
+				[
+					[
+						"Space Bar Mash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				77126.25,
+				[
+					[
+						"Space Bar Mash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				230400,
+				[
+					[
+						"Change Character",
+						"dad",
+						"alive baka"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "null",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "sorrow"
+	}
+}
