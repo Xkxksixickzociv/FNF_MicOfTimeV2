@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "sorrow",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "im gonna kill your entire family"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "okay!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sorrow",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Super Idol de xiào róng\r\rdōu méi nǐ de tián\r\rbā yuè zhèng wǔ de yáng guāng\r\rdōu méi nǐ yào yǎn\r\rrè ài yī bǎi líng wǔ dù de nǐ\r\rdī dī qīng chún de zhēng liú shuǐ\r\rnǐ bù zhī dào nǐ yǒu duō kě ài\r\rdiē dǎo hòu huì shǎ xiào zhe zài zhàn qǐ lái\r\rnǐ cóng lái dōu bù qīng yán shī bài\r\rduì mèng xiǎng de zhí zhuó yī zhí bù céng gēng gǎi\r\rhěn ān xīn dāng nǐ duì wǒ shuō\r\rbù pà yǒu wǒ zài\r\rfàng zhe ràng wǒ lái\r\ryǒng gǎn zhuī zì jǐ de mèng xiǎng\r\rnà jiān dìng de mú yàng\r\rSuper Idol de xiào róng\r\rdōu méi nǐ de tián\r\rbā yuè zhèng wǔ de yáng guāng\r\rdōu méi nǐ yào yǎn\r\rrè ài yī bǎi líng wǔ dù de nǐ\r\rdī dī qīng chún de zhēng liú shuǐ\r\rzài zhè dú yī wú èr\r\rshǔ yú wǒ de shí dài\r\rbù pà shī bài lái yī chǎng\r\rtòng kuài de rè ài\r\rrè ài yī bǎi líng wǔ dù de nǐ\r\rdī dī qīng chún de zhēng liú shuǐ\r\rzài zhè dú yī wú èr\r\rshǔ yú wǒ de shí dài\r\rmò wàng le chū xīn cháng zài\r\rtòng kuài qù rè ài\r\rrè ài yī bǎi líng wǔ dù de nǐ\r\rdī dī qīng chún de zhēng liú shuǐ\r\rhē yī kǒu yòu huó lì quán kāi\r\rzài cì huí dào zuì jiā zhuàng tài\r\rhē yī kǒu yō\r\rnǐ bù zhī dào nǐ yǒu duō kě ài\r\rdiē dǎo hòu huì shǎ xiào zhe zài zhàn qǐ lái\r\rnǐ cóng lái dōu bù qīng yán shī bài\r\rduì mèng xiǎng de zhí zhuó yī zhí bù céng gēng gǎi\r\rhěn ān xīn dāng nǐ duì wǒ shuō\r\rbù pà yǒu wǒ zài\r\rfàng zhe ràng wǒ lái\r\ryǒng gǎn zhuī zì jǐ de mèng xiǎng\r\rnà jiān dìng de mú yàng\r\rSuper Idol de xiào róng"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "true!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Click To Add Text"
+		}
+	]
+}

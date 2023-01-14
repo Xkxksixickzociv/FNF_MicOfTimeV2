@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "mic no time",
+		"player1": "bf mic no time",
+		"player2": "sorrow-ben",
+		"player3": null,
+		"events": [
+			[
+				230364.375,
+				[
+					[
+						"Change Character",
+						"dad",
+						"alibe but bed"
+					]
+				]
+			],
+			[
+				230405.625,
+				[
+					[
+						"tween zoom (start)",
+						"1.7",
+						"0.6"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "null",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "sarrow"
+	}
+}
