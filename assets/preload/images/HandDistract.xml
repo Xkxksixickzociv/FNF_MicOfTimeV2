@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="HandDistract.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="Distract10000" x="0" y="0" width="352" height="280" frameX="0" frameY="-1" frameWidth="353" frameHeight="282"/>
+	<SubTexture name="Distract10001" x="0" y="0" width="352" height="280" frameX="0" frameY="-1" frameWidth="353" frameHeight="282"/>
+	<SubTexture name="Distract10002" x="352" y="0" width="352" height="280" frameX="-1" frameY="-2" frameWidth="353" frameHeight="282"/>
+	<SubTexture name="Distract10003" x="352" y="0" width="352" height="280" frameX="-1" frameY="-2" frameWidth="353" frameHeight="282"/>
+	<SubTexture name="Distract10004" x="704" y="0" width="352" height="280" frameX="0" frameY="-2" frameWidth="353" frameHeight="282"/>
+	<SubTexture name="Distract10005" x="704" y="0" width="352" height="280" frameX="0" frameY="-2" frameWidth="353" frameHeight="282"/>
+	<SubTexture name="Distract10006" x="1056" y="0" width="352" height="280" frameX="-1" frameY="-2" frameWidth="353" frameHeight="282"/>
+	<SubTexture name="Distract10007" x="1056" y="0" width="352" height="280" frameX="-1" frameY="-2" frameWidth="353" frameHeight="282"/>
+	<SubTexture name="Distract10008" x="1408" y="0" width="352" height="280" frameX="0" frameY="-2" frameWidth="353" frameHeight="282"/>
+	<SubTexture name="Distract10009" x="1408" y="0" width="352" height="280" frameX="0" frameY="-2" frameWidth="353" frameHeight="282"/>
+	<SubTexture name="Distract10010" x="0" y="280" width="352" height="280" frameX="0" frameY="-1" frameWidth="353" frameHeight="282"/>
+	<SubTexture name="Distract10011" x="0" y="280" width="352" height="280" frameX="0" frameY="-1" frameWidth="353" frameHeight="282"/>
+	<SubTexture name="Distract10012" x="352" y="280" width="352" height="280" frameX="0" frameY="-2" frameWidth="353" frameHeight="282"/>
+	<SubTexture name="Distract10013" x="352" y="280" width="352" height="280" frameX="0" frameY="-2" frameWidth="353" frameHeight="282"/>
+	<SubTexture name="Distract10014" x="704" y="280" width="352" height="280" frameX="0" frameY="-2" frameWidth="353" frameHeight="282"/>
+	<SubTexture name="Distract10015" x="704" y="280" width="352" height="280" frameX="0" frameY="-2" frameWidth="353" frameHeight="282"/>
+	<SubTexture name="Distract10016" x="1056" y="280" width="352" height="280" frameX="0" frameY="-2" frameWidth="353" frameHeight="282"/>
+	<SubTexture name="Distract10017" x="1056" y="280" width="352" height="280" frameX="0" frameY="-2" frameWidth="353" frameHeight="282"/>
+	<SubTexture name="Distract10018" x="1408" y="280" width="352" height="280" frameX="0" frameY="-2" frameWidth="353" frameHeight="282"/>
+	<SubTexture name="Distract10019" x="1408" y="280" width="352" height="280" frameX="0" frameY="-2" frameWidth="353" frameHeight="282"/>
+	<SubTexture name="Distract10020" x="0" y="560" width="352" height="280" frameX="0" frameY="-1" frameWidth="353" frameHeight="282"/>
+	<SubTexture name="Distract10021" x="0" y="560" width="352" height="280" frameX="0" frameY="-1" frameWidth="353" frameHeight="282"/>
+	<SubTexture name="Distract10022" x="352" y="560" width="352" height="280" frameX="0" frameY="-1" frameWidth="353" frameHeight="282"/>
+	<SubTexture name="Distract10023" x="352" y="560" width="352" height="280" frameX="0" frameY="-1" frameWidth="353" frameHeight="282"/>
+	<SubTexture name="Distract10024" x="704" y="560" width="352" height="280" frameX="0" frameY="-1" frameWidth="353" frameHeight="282"/>
+	<SubTexture name="Distract10025" x="704" y="560" width="352" height="280" frameX="0" frameY="-1" frameWidth="353" frameHeight="282"/>
+	<SubTexture name="Distract10026" x="1056" y="560" width="352" height="280" frameX="0" frameY="-2" frameWidth="353" frameHeight="282"/>
+	<SubTexture name="Distract10027" x="1056" y="560" width="352" height="280" frameX="0" frameY="-2" frameWidth="353" frameHeight="282"/>
+	<SubTexture name="Distract10028" x="1408" y="560" width="352" height="280" frameX="0" frameY="0" frameWidth="353" frameHeight="282"/>
+	<SubTexture name="Distract10029" x="1408" y="560" width="352" height="280" frameX="0" frameY="0" frameWidth="353" frameHeight="282"/>
+	<SubTexture name="Distract20000" x="0" y="840" width="352" height="280" frameX="0" frameY="0" frameWidth="352" frameHeight="281"/>
+	<SubTexture name="Distract20001" x="0" y="840" width="352" height="280" frameX="0" frameY="0" frameWidth="352" frameHeight="281"/>
+	<SubTexture name="Distract20002" x="352" y="840" width="352" height="280" frameX="0" frameY="-1" frameWidth="352" frameHeight="281"/>
+	<SubTexture name="Distract20003" x="352" y="840" width="352" height="280" frameX="0" frameY="-1" frameWidth="352" frameHeight="281"/>
+	<SubTexture name="Distract20004" x="704" y="840" width="352" height="280" frameX="0" frameY="0" frameWidth="352" frameHeight="281"/>
+	<SubTexture name="Distract20005" x="704" y="840" width="352" height="280" frameX="0" frameY="0" frameWidth="352" frameHeight="281"/>
+	<SubTexture name="Distract20006" x="1056" y="840" width="352" height="280" frameX="0" frameY="-1" frameWidth="352" frameHeight="281"/>
+	<SubTexture name="Distract20007" x="1056" y="840" width="352" height="280" frameX="0" frameY="-1" frameWidth="352" frameHeight="281"/>
+	<SubTexture name="Distract20008" x="1408" y="840" width="352" height="280" frameX="0" frameY="0" frameWidth="352" frameHeight="281"/>
+	<SubTexture name="Distract20009" x="1408" y="840" width="352" height="280" frameX="0" frameY="0" frameWidth="352" frameHeight="281"/>
+	<SubTexture name="Distract20010" x="0" y="1120" width="352" height="280" frameX="0" frameY="0" frameWidth="352" frameHeight="281"/>
+	<SubTexture name="Distract20011" x="0" y="1120" width="352" height="280" frameX="0" frameY="0" frameWidth="352" frameHeight="281"/>
+	<SubTexture name="Distract20012" x="352" y="1120" width="352" height="280" frameX="0" frameY="0" frameWidth="352" frameHeight="281"/>
+	<SubTexture name="Distract20013" x="352" y="1120" width="352" height="280" frameX="0" frameY="0" frameWidth="352" frameHeight="281"/>
+	<SubTexture name="Distract20014" x="704" y="1120" width="352" height="280" frameX="0" frameY="-1" frameWidth="352" frameHeight="281"/>
+	<SubTexture name="Distract20015" x="704" y="1120" width="352" height="280" frameX="0" frameY="-1" frameWidth="352" frameHeight="281"/>
+	<SubTexture name="Distract20016" x="1056" y="1120" width="352" height="280" frameX="0" frameY="0" frameWidth="352" frameHeight="281"/>
+	<SubTexture name="Distract20017" x="1056" y="1120" width="352" height="280" frameX="0" frameY="0" frameWidth="352" frameHeight="281"/>
+	<SubTexture name="Distract20018" x="1408" y="1120" width="352" height="280" frameX="0" frameY="0" frameWidth="352" frameHeight="281"/>
+	<SubTexture name="Distract20019" x="1408" y="1120" width="352" height="280" frameX="0" frameY="0" frameWidth="352" frameHeight="281"/>
+	<SubTexture name="Distract20020" x="0" y="1400" width="352" height="280" frameX="0" frameY="0" frameWidth="352" frameHeight="281"/>
+	<SubTexture name="Distract20021" x="0" y="1400" width="352" height="280" frameX="0" frameY="0" frameWidth="352" frameHeight="281"/>
+	<SubTexture name="Distract20022" x="352" y="1400" width="352" height="280" frameX="0" frameY="0" frameWidth="352" frameHeight="281"/>
+	<SubTexture name="Distract20023" x="352" y="1400" width="352" height="280" frameX="0" frameY="0" frameWidth="352" frameHeight="281"/>
+	<SubTexture name="Distract20024" x="704" y="840" width="352" height="280" frameX="0" frameY="0" frameWidth="352" frameHeight="281"/>
+	<SubTexture name="Distract20025" x="704" y="840" width="352" height="280" frameX="0" frameY="0" frameWidth="352" frameHeight="281"/>
+	<SubTexture name="Distract20026" x="704" y="1400" width="352" height="280" frameX="0" frameY="0" frameWidth="352" frameHeight="281"/>
+	<SubTexture name="Distract20027" x="704" y="1400" width="352" height="280" frameX="0" frameY="0" frameWidth="352" frameHeight="281"/>
+</TextureAtlas> 
