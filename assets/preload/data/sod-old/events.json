@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": null,
+		"player1": "bf",
+		"player2": "link",
+		"player3": null,
+		"events": [
+			[
+				122666.666666667,
+				[
+					[
+						"Change Scroll Speed",
+						"1.27",
+						"6"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 120,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "sod-old"
+	}
+}
