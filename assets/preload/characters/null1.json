@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "ben idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "teleport",
+			"loop": false,
+			"name": "ben teleport"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ben",
+	"position": [
+		90,
+		120
+	],
+	"healthicon": "icon-ben1",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		154,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

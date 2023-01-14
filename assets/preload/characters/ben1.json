@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "ben idle"
+		},
+		{
+			"offsets": [
+				32,
+				-4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "ben left"
+		},
+		{
+			"offsets": [
+				0,
+				-45
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "ben down"
+		},
+		{
+			"offsets": [
+				0,
+				8
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "ben up"
+		},
+		{
+			"offsets": [
+				0,
+				-57
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "ben right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/benRipBozo1",
+	"position": [
+		70,
+		80
+	],
+	"healthicon": "icon-bendead",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		154,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

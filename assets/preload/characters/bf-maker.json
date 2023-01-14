@@ -3,8 +3,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-5,
-				0
+				-9,
+				5
 			],
 			"anim": "idle",
 			"fps": 24,
@@ -14,7 +14,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				5,
+				-15,
 				-6
 			],
 			"anim": "singLEFT",
@@ -26,7 +26,7 @@
 			"loop": false,
 			"offsets": [
 				-10,
-				-50
+				-60
 			],
 			"anim": "singDOWN",
 			"fps": 24,
@@ -36,7 +36,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-29,
+				-9,
 				27
 			],
 			"anim": "singUP",
@@ -47,8 +47,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-48,
-				-7
+				-58,
+				3
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
@@ -58,8 +58,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				7,
-				19
+				27,
+				9
 			],
 			"anim": "singLEFTmiss",
 			"fps": 24,
@@ -147,7 +147,7 @@
 			"loop": true,
 			"offsets": [
 				37,
-				5
+				25
 			],
 			"anim": "deathLoop",
 			"fps": 24,
@@ -157,8 +157,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				37,
-				69
+				27,
+				59
 			],
 			"anim": "deathConfirm",
 			"fps": 24,
@@ -200,17 +200,17 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/bfDark",
+	"image": "characters/BOYFRIEND",
 	"position": [
 		0,
 		350
 	],
-	"healthicon": "bf",
+	"healthicon": "maker2",
 	"flip_x": true,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		0,
+		0,
+		255
 	],
 	"camera_position": [
 		0,

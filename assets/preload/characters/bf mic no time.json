@@ -4,18 +4,7 @@
 			"loop": false,
 			"offsets": [
 				-5,
-				0
-			],
-			"anim": "idle",
-			"fps": 24,
-			"name": "BF idle dance",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				5,
-				-6
+				-31
 			],
 			"anim": "singLEFT",
 			"fps": 24,
@@ -25,8 +14,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-10,
-				-50
+				133,
+				88
 			],
 			"anim": "singDOWN",
 			"fps": 24,
@@ -36,8 +25,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-29,
-				27
+				213,
+				256
 			],
 			"anim": "singUP",
 			"fps": 24,
@@ -47,8 +36,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-48,
-				-7
+				480,
+				-34
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
@@ -197,23 +186,34 @@
 			"fps": 24,
 			"name": "bf pre attack",
 			"indices": []
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "BF idle dance"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/bfDark",
+	"image": "characters/sarrow-mic-no-time-bee-eff",
 	"position": [
 		0,
 		350
 	],
 	"healthicon": "bf",
-	"flip_x": true,
+	"flip_x": false,
 	"healthbar_colors": [
 		49,
 		176,
 		209
 	],
 	"camera_position": [
-		0,
+		70,
 		0
 	],
 	"sing_duration": 4,

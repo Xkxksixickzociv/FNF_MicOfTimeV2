@@ -1,0 +1,113 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-23,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ben idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ben left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				-14
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ben down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				48
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ben up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ben right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-21,
+				50
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			],
+			"fps": 24,
+			"anim": "laugh1",
+			"loop": false,
+			"name": "ben laugh"
+		},
+		{
+			"offsets": [
+				-21,
+				50
+			],
+			"indices": [
+				7,
+				7,
+				9,
+				9,
+				9,
+				9,
+				9
+			],
+			"fps": 24,
+			"anim": "laugh",
+			"loop": false,
+			"name": "ben laugh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ben_drowned_assets",
+	"position": [
+		-20,
+		-50
+	],
+	"healthicon": "ben",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		154,
+		0
+	],
+	"camera_position": [
+		150,
+		300
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

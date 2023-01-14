@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				29
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Jadu idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				-35
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Jadu left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-87
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Jadu down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				83
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Jadu up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-21
+			],
+			"anim": "swing",
+			"fps": 24,
+			"name": "Jadu swing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Jadu right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "attack",
+			"loop": false,
+			"name": "Jadu swing"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Jadu_POV",
+	"position": [
+		-20,
+		110
+	],
+	"healthicon": "Jadu",
+	"flip_x": false,
+	"healthbar_colors": [
+		181,
+		217,
+		198
+	],
+	"camera_position": [
+		-180,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-3,
+				-10
+			],
+			"anim": "idle",
+			"fps": 4,
+			"name": "Ben Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-120,
+				10
+			],
+			"loop": true,
+			"fps": 8,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Ben Right"
+		},
+		{
+			"offsets": [
+				140,
+				-50
+			],
+			"loop": true,
+			"fps": 8,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Ben Down"
+		},
+		{
+			"offsets": [
+				-10,
+				170
+			],
+			"loop": true,
+			"fps": 8,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Ben Up"
+		},
+		{
+			"offsets": [
+				170,
+				-20
+			],
+			"loop": true,
+			"fps": 8,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Ben Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sorrow_ben",
+	"position": [
+		-300,
+		-60
+	],
+	"healthicon": "sarrow",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		0
+	],
+	"camera_position": [
+		-210,
+		-340
+	],
+	"sing_duration": 6.1,
+	"scale": 1.7
+}

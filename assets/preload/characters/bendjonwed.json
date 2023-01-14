@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				70,
+				220
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "bendjownedscawy left"
+		},
+		{
+			"offsets": [
+				9,
+				241
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "bendjownedscawy right"
+		},
+		{
+			"offsets": [
+				40,
+				220
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "bendjownedscawy up"
+		},
+		{
+			"offsets": [
+				20,
+				200
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "bendjownedscawy down"
+		},
+		{
+			"offsets": [
+				40,
+				220
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "bendjownedscawy idle"
+		},
+		{
+			"offsets": [
+				0,
+				220
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "epictransformation",
+			"loop": false,
+			"name": "bendjownedscawy transformer"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bendjownedscawy",
+	"position": [
+		-10,
+		370
+	],
+	"healthicon": "armor",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-10,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

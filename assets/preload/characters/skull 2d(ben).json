@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Kid idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				-75
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Kid Pose Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				68,
+				-70
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Kid Pose Note LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				-110
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Kid Pose Note UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-20
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Kid Pose Note RIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/skull2d",
+	"position": [
+		-70,
+		-230
+	],
+	"healthicon": "skull",
+	"flip_x": false,
+	"healthbar_colors": [
+		104,
+		81,
+		163
+	],
+	"camera_position": [
+		-80,
+		400
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

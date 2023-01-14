@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 4,
+			"name": "ben alibe idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 8,
+			"name": "ben alibe right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 8,
+			"name": "ben alibe down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 8,
+			"name": "ben alibe up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 8,
+			"name": "ben alibe left0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ben alibe",
+	"position": [
+		-300,
+		280
+	],
+	"healthicon": "ben",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		0
+	],
+	"camera_position": [
+		-210,
+		-40
+	],
+	"sing_duration": 6.1,
+	"scale": 4.4
+}
