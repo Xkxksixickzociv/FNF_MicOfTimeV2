@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TextureAtlas>
+	<SubTexture name="Ben Idle0001" x="0" y="0" width="600" height="600"/>
+	<SubTexture name="Ben Idle0002" x="600" y="0" width="600" height="600"/>
+	<SubTexture name="Ben Left0001" x="1200" y="0" width="600" height="600"/>
+	<SubTexture name="Ben Left0002" x="1800" y="0" width="600" height="600"/>
+	<SubTexture name="Ben Right0001" x="0" y="600" width="600" height="600"/>
+	<SubTexture name="Ben Right0002" x="600" y="600" width="600" height="600"/>
+	<SubTexture name="Ben Up0001" x="1200" y="600" width="600" height="600"/>
+	<SubTexture name="Ben Up0002" x="1800" y="600" width="600" height="600"/>
+	<SubTexture name="Ben Down0001" x="0" y="1200" width="600" height="600"/>
+	<SubTexture name="Ben Down0002" x="600" y="1200" width="600" height="600"/>
+</TextureAtlas>

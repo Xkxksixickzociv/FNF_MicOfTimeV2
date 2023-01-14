@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfdrown.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<SubTexture name="BF DROWNING0000" x="10" y="10" width="1038" height="597"/>
+	<SubTexture name="BF DROWNING0001" x="10" y="10" width="1038" height="597"/>
+	<SubTexture name="BF DROWNING0002" x="1048" y="10" width="1038" height="597"/>
+	<SubTexture name="BF DROWNING0003" x="1048" y="10" width="1038" height="597"/>
+	<SubTexture name="BF DROWNING0004" x="2086" y="10" width="1038" height="597"/>
+	<SubTexture name="BF DROWNING0005" x="2086" y="10" width="1038" height="597"/>
+	<SubTexture name="BF DROWNING0006" x="10" y="607" width="1038" height="597"/>
+	<SubTexture name="BF DROWNING0007" x="10" y="607" width="1038" height="597"/>
+	<SubTexture name="BF DROWNING0008" x="1048" y="607" width="1038" height="597"/>
+	<SubTexture name="BF DROWNING0009" x="1048" y="607" width="1038" height="597"/>
+	<SubTexture name="BF DROWNING0010" x="2086" y="607" width="1038" height="597"/>
+	<SubTexture name="BF DROWNING0011" x="2086" y="607" width="1038" height="597"/>
+	<SubTexture name="BF DROWNING0012" x="10" y="1204" width="1038" height="597"/>
+	<SubTexture name="BF DROWNING0013" x="10" y="1204" width="1038" height="597"/>
+	<SubTexture name="BF DROWNING0014" x="1048" y="1204" width="1038" height="597"/>
+	<SubTexture name="BF DROWNING0015" x="1048" y="1204" width="1038" height="597"/>
+	<SubTexture name="BF DROWNING0016" x="2086" y="1204" width="1038" height="597"/>
+	<SubTexture name="BF DROWNING0017" x="2086" y="1204" width="1038" height="597"/>
+	<SubTexture name="BF DROWNING0018" x="10" y="1801" width="1038" height="597"/>
+	<SubTexture name="BF DROWNING0019" x="10" y="1801" width="1038" height="597"/>
+</TextureAtlas>

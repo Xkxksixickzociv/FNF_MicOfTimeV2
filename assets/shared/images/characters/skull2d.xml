@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SkullKid.png"><SubTexture name="Kid Pose Note DOWN0000" x="0" y="0" width="508" height="524" frameX="0" frameY="-180" frameWidth="508" frameHeight="724" />
+<SubTexture name="Kid Pose Note DOWN0001" x="508" y="0" width="508" height="524" frameX="0" frameY="-180" frameWidth="508" frameHeight="524" />
+<SubTexture name="Kid Pose Note DOWN0002" x="1016" y="0" width="508" height="524" frameX="0" frameY="-180" frameWidth="508" frameHeight="524" />
+<SubTexture name="Kid Pose Note DOWN0003" x="1524" y="0" width="508" height="524" frameX="0" frameY="-180" frameWidth="508" frameHeight="524" />
+<SubTexture name="Kid Pose Note DOWN0004" x="0" y="524" width="508" height="524" frameX="0" frameY="-180" frameWidth="508" frameHeight="524" />
+<SubTexture name="Kid Pose Note DOWN0005" x="508" y="524" width="508" height="524" frameX="0" frameY="-180" frameWidth="508" frameHeight="524" />
+<SubTexture name="Kid Pose Note DOWN0006" x="1016" y="524" width="508" height="524" frameX="0" frameY="-180" frameWidth="508" frameHeight="524" />
+<SubTexture name="Kid idle dance0000" x="1524" y="524" width="549" height="763" frameX="0" frameY="0" frameWidth="549" frameHeight="763" />
+<SubTexture name="Kid idle dance0001" x="0" y="1287" width="549" height="763" frameX="0" frameY="0" frameWidth="549" frameHeight="763" />
+<SubTexture name="Kid idle dance0002" x="549" y="1287" width="549" height="763" frameX="0" frameY="0" frameWidth="549" frameHeight="763" />
+<SubTexture name="Kid idle dance0003" x="1098" y="1287" width="549" height="763" frameX="0" frameY="0" frameWidth="549" frameHeight="763" />
+<SubTexture name="Kid idle dance0004" x="1647" y="1287" width="549" height="763" frameX="0" frameY="0" frameWidth="549" frameHeight="763" />
+<SubTexture name="Kid idle dance0005" x="0" y="2050" width="549" height="763" frameX="0" frameY="0" frameWidth="549" frameHeight="763" />
+<SubTexture name="Kid idle dance0006" x="549" y="2050" width="549" height="763" frameX="0" frameY="0" frameWidth="549" frameHeight="763" />
+<SubTexture name="Kid idle dance0007" x="1098" y="2050" width="549" height="763" frameX="0" frameY="0" frameWidth="549" frameHeight="763" />
+<SubTexture name="Kid idle dance0008" x="1647" y="2050" width="549" height="763" frameX="0" frameY="0" frameWidth="549" frameHeight="763" />
+<SubTexture name="Kid idle dance0009" x="0" y="2813" width="549" height="763" frameX="0" frameY="0" frameWidth="549" frameHeight="763" />
+<SubTexture name="Kid idle dance0010" x="549" y="2813" width="549" height="763" frameX="0" frameY="0" frameWidth="549" frameHeight="763" />
+<SubTexture name="Kid idle dance0011" x="1098" y="2813" width="549" height="763" frameX="0" frameY="0" frameWidth="549" frameHeight="763" />
+<SubTexture name="Kid idle dance0012" x="1647" y="2813" width="549" height="763" frameX="0" frameY="0" frameWidth="549" frameHeight="763" />
+<SubTexture name="Kid idle dance0013" x="0" y="3576" width="549" height="763" frameX="0" frameY="0" frameWidth="549" frameHeight="763" />
+<SubTexture name="Kid idle dance0014" x="549" y="3576" width="549" height="763" frameX="0" frameY="0" frameWidth="549" frameHeight="763" />
+<SubTexture name="Kid Pose Note LEFT0000" x="1098" y="3576" width="594" height="591" frameX="50" frameY="-90" frameWidth="594" frameHeight="591" />
+<SubTexture name="Kid Pose Note LEFT0001" x="1692" y="3576" width="594" height="591" frameX="50" frameY="-90" frameWidth="594" frameHeight="591" />
+<SubTexture name="Kid Pose Note LEFT0002" x="0" y="4339" width="594" height="591" frameX="50" frameY="-90" frameWidth="594" frameHeight="591" />
+<SubTexture name="Kid Pose Note LEFT0003" x="594" y="4339" width="594" height="591" frameX="50" frameY="-90" frameWidth="594" frameHeight="591" />
+<SubTexture name="Kid Pose Note LEFT0004" x="1188" y="4339" width="594" height="591" frameX="50" frameY="-90" frameWidth="594" frameHeight="591" />
+<SubTexture name="Kid Pose Note LEFT0005" x="1782" y="4339" width="594" height="591" frameX="50" frameY="-90" frameWidth="594" frameHeight="591" />
+<SubTexture name="Kid Pose Note LEFT0006" x="0" y="4930" width="594" height="591" frameX="50" frameY="-90" frameWidth="594" frameHeight="591" />
+<SubTexture name="Kid Pose Note RIGHT0000" x="594" y="4930" width="627" height="629" frameX="-40" frameY="-90" frameWidth="627" frameHeight="629" />
+<SubTexture name="Kid Pose Note RIGHT0001" x="1221" y="4930" width="627" height="629" frameX="-40" frameY="-90" frameWidth="627" frameHeight="629" />
+<SubTexture name="Kid Pose Note RIGHT0002" x="1848" y="4930" width="627" height="629" frameX="-40" frameY="-90" frameWidth="627" frameHeight="629" />
+<SubTexture name="Kid Pose Note RIGHT0003" x="0" y="5559" width="627" height="629" frameX="-40" frameY="-90" frameWidth="627" frameHeight="629" />
+<SubTexture name="Kid Pose Note RIGHT0004" x="627" y="5559" width="627" height="629" frameX="-40" frameY="-90" frameWidth="627" frameHeight="629" />
+<SubTexture name="Kid Pose Note RIGHT0005" x="1254" y="5559" width="627" height="629" frameX="-40" frameY="-90" frameWidth="627" frameHeight="629" />
+<SubTexture name="Kid Pose Note RIGHT0006" x="1881" y="5559" width="627" height="629" frameX="-40" frameY="-90" frameWidth="627" frameHeight="629" />
+<SubTexture name="Kid Pose Note UP0000" x="0" y="6188" width="497" height="704" frameX="-40" frameY="70" frameWidth="497" frameHeight="704" />
+<SubTexture name="Kid Pose Note UP0001" x="497" y="6188" width="497" height="704" frameX="-40" frameY="70" frameWidth="497" frameHeight="704" />
+<SubTexture name="Kid Pose Note UP0002" x="994" y="6188" width="497" height="704" frameX="-40" frameY="70" frameWidth="497" frameHeight="704" />
+<SubTexture name="Kid Pose Note UP0003" x="1491" y="6188" width="497" height="704" frameX="-40" frameY="70" frameWidth="497" frameHeight="704" />
+<SubTexture name="Kid Pose Note UP0004" x="0" y="6892" width="497" height="704" frameX="-40" frameY="70" frameWidth="497" frameHeight="704" />
+<SubTexture name="Kid Pose Note UP0005" x="497" y="6892" width="497" height="704" frameX="-40" frameY="70" frameWidth="497" frameHeight="704" />
+<SubTexture name="Kid Pose Note UP0006" x="994" y="6892" width="497" height="704" frameX="-40" frameY="70" frameWidth="497" frameHeight="704" />
+</TextureAtlas>

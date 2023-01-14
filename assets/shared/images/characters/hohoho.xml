@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hohoho.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hohoho0000" x="10" y="10" width="498" height="498"/>
+	<SubTexture name="hohoho0001" x="10" y="10" width="498" height="498"/>
+	<SubTexture name="hohoho0002" x="10" y="10" width="498" height="498"/>
+	<SubTexture name="hohoho0003" x="518" y="10" width="498" height="498"/>
+	<SubTexture name="hohoho0004" x="518" y="10" width="498" height="498"/>
+	<SubTexture name="hohoho0005" x="518" y="10" width="498" height="498"/>
+	<SubTexture name="hohoho0006" x="1026" y="10" width="498" height="498"/>
+	<SubTexture name="hohoho0007" x="1026" y="10" width="498" height="498"/>
+	<SubTexture name="hohoho0008" x="1026" y="10" width="498" height="498"/>
+	<SubTexture name="hohoho0009" x="1534" y="10" width="498" height="498"/>
+	<SubTexture name="hohoho0010" x="1534" y="10" width="498" height="498"/>
+	<SubTexture name="hohoho0011" x="1534" y="10" width="498" height="498"/>
+	<SubTexture name="hohoho0012" x="10" y="518" width="498" height="498"/>
+	<SubTexture name="hohoho0013" x="10" y="518" width="498" height="498"/>
+	<SubTexture name="hohoho0014" x="10" y="518" width="498" height="498"/>
+	<SubTexture name="hohoho0015" x="518" y="518" width="498" height="498"/>
+	<SubTexture name="hohoho0016" x="518" y="518" width="498" height="498"/>
+	<SubTexture name="hohoho0017" x="518" y="518" width="498" height="498"/>
+	<SubTexture name="hohoho0018" x="1026" y="518" width="498" height="498"/>
+	<SubTexture name="hohoho0019" x="1026" y="518" width="498" height="498"/>
+	<SubTexture name="hohoho0020" x="1026" y="518" width="498" height="498"/>
+	<SubTexture name="hohoho0021" x="1534" y="518" width="498" height="498"/>
+	<SubTexture name="hohoho0022" x="1534" y="518" width="498" height="498"/>
+	<SubTexture name="hohoho0023" x="1534" y="518" width="498" height="498"/>
+	<SubTexture name="hohoho0024" x="10" y="1026" width="498" height="498"/>
+	<SubTexture name="hohoho0025" x="10" y="1026" width="498" height="498"/>
+	<SubTexture name="hohoho0026" x="10" y="1026" width="498" height="498"/>
+	<SubTexture name="hohoho0027" x="518" y="1026" width="498" height="498"/>
+	<SubTexture name="hohoho0028" x="518" y="1026" width="498" height="498"/>
+	<SubTexture name="hohoho0029" x="518" y="1026" width="498" height="498"/>
+	<SubTexture name="hohoho0030" x="1026" y="1026" width="498" height="498"/>
+	<SubTexture name="hohoho0031" x="1026" y="1026" width="498" height="498"/>
+	<SubTexture name="hohoho0032" x="1026" y="1026" width="498" height="498"/>
+</TextureAtlas>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ben alibe.png"><SubTexture name="ben alibe idle0000" x="100" y="0" width="100" height="76" frameX="0" frameY="-24" frameWidth="100" frameHeight="100" />
+<SubTexture name="ben alibe idle0001" x="200" y="76" width="100" height="75" frameX="0" frameY="-25" frameWidth="100" frameHeight="100" />
+<SubTexture name="ben alibe up0000" x="0" y="0" width="100" height="89" frameX="0" frameY="-11" frameWidth="100" frameHeight="100" />
+<SubTexture name="ben alibe down0000" x="0" y="89" width="100" height="76" frameX="0" frameY="-24" frameWidth="100" frameHeight="100" />
+<SubTexture name="ben alibe right0000" x="100" y="89" width="100" height="76" frameX="0" frameY="-24" frameWidth="100" frameHeight="100" />
+<SubTexture name="ben alibe left0000" x="200" y="0" width="100" height="76" frameX="0" frameY="-24" frameWidth="100" frameHeight="100" />
+</TextureAtlas>

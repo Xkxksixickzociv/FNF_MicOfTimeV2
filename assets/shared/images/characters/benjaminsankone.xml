@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="benjaminsankone.png"><SubTexture name="benjaminsankone idle0000" x="0" y="0" width="511" height="926" frameX="0" frameY="0" frameWidth="511" frameHeight="926" />
+<SubTexture name="benjaminsankone left0000" x="511" y="0" width="511" height="926" frameX="0" frameY="0" frameWidth="511" frameHeight="926" />
+<SubTexture name="benjaminsankone down0000" x="0" y="926" width="511" height="926" frameX="0" frameY="0" frameWidth="511" frameHeight="926" />
+<SubTexture name="benjaminsankone up0000" x="511" y="926" width="511" height="926" frameX="0" frameY="0" frameWidth="511" frameHeight="926" />
+<SubTexture name="benjaminsankone right0000" x="0" y="1852" width="511" height="926" frameX="0" frameY="0" frameWidth="511" frameHeight="926" />
+</TextureAtlas>

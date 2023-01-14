@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Jadu_POV.png">
+	<!-- Created with Adobe Animate version 16.1.0.86 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Jadu down0000" x="10" y="10" width="522" height="460" frameX="0" frameY="-5" frameWidth="522" frameHeight="465"/>
+	<SubTexture name="Jadu down0001" x="10" y="10" width="522" height="460" frameX="0" frameY="-5" frameWidth="522" frameHeight="465"/>
+	<SubTexture name="Jadu down0002" x="542" y="10" width="511" height="465" frameX="-3" frameY="0" frameWidth="522" frameHeight="465"/>
+	<SubTexture name="Jadu down0003" x="542" y="10" width="511" height="465" frameX="-3" frameY="0" frameWidth="522" frameHeight="465"/>
+	<SubTexture name="Jadu down0004" x="1063" y="10" width="511" height="465" frameX="-3" frameY="0" frameWidth="522" frameHeight="465"/>
+	<SubTexture name="Jadu down0005" x="1063" y="10" width="511" height="465" frameX="-3" frameY="0" frameWidth="522" frameHeight="465"/>
+	<SubTexture name="Jadu down0006" x="1063" y="10" width="511" height="465" frameX="-3" frameY="0" frameWidth="522" frameHeight="465"/>
+	<SubTexture name="Jadu down0007" x="1063" y="10" width="511" height="465" frameX="-3" frameY="0" frameWidth="522" frameHeight="465"/>
+	<SubTexture name="Jadu down0008" x="1063" y="10" width="511" height="465" frameX="-3" frameY="0" frameWidth="522" frameHeight="465"/>
+	<SubTexture name="Jadu down0009" x="1063" y="10" width="511" height="465" frameX="-3" frameY="0" frameWidth="522" frameHeight="465"/>
+	<SubTexture name="Jadu down0010" x="1063" y="10" width="511" height="465" frameX="-3" frameY="0" frameWidth="522" frameHeight="465"/>
+	<SubTexture name="Jadu down0011" x="1063" y="10" width="511" height="465" frameX="-3" frameY="0" frameWidth="522" frameHeight="465"/>
+	<SubTexture name="Jadu down0012" x="1063" y="10" width="511" height="465" frameX="-3" frameY="0" frameWidth="522" frameHeight="465"/>
+	<SubTexture name="Jadu down0013" x="1063" y="10" width="511" height="465" frameX="-3" frameY="0" frameWidth="522" frameHeight="465"/>
+	<SubTexture name="Jadu down0014" x="1063" y="10" width="511" height="465" frameX="-3" frameY="0" frameWidth="522" frameHeight="465"/>
+	<SubTexture name="Jadu idle0000" x="1584" y="10" width="487" height="566" frameX="0" frameY="-14" frameWidth="491" frameHeight="580"/>
+	<SubTexture name="Jadu idle0001" x="1584" y="10" width="487" height="566" frameX="0" frameY="-14" frameWidth="491" frameHeight="580"/>
+	<SubTexture name="Jadu idle0002" x="2081" y="10" width="491" height="564" frameX="0" frameY="-16" frameWidth="491" frameHeight="580"/>
+	<SubTexture name="Jadu idle0003" x="2081" y="10" width="491" height="564" frameX="0" frameY="-16" frameWidth="491" frameHeight="580"/>
+	<SubTexture name="Jadu idle0004" x="2582" y="10" width="478" height="576" frameX="-4" frameY="-4" frameWidth="491" frameHeight="580"/>
+	<SubTexture name="Jadu idle0005" x="2582" y="10" width="478" height="576" frameX="-4" frameY="-4" frameWidth="491" frameHeight="580"/>
+	<SubTexture name="Jadu idle0006" x="3070" y="10" width="474" height="580" frameX="-4" frameY="0" frameWidth="491" frameHeight="580"/>
+	<SubTexture name="Jadu idle0007" x="3070" y="10" width="474" height="580" frameX="-4" frameY="0" frameWidth="491" frameHeight="580"/>
+	<SubTexture name="Jadu idle0008" x="3554" y="10" width="474" height="579" frameX="-4" frameY="-1" frameWidth="491" frameHeight="580"/>
+	<SubTexture name="Jadu idle0009" x="3554" y="10" width="474" height="579" frameX="-4" frameY="-1" frameWidth="491" frameHeight="580"/>
+	<SubTexture name="Jadu idle0010" x="3554" y="10" width="474" height="579" frameX="-4" frameY="-1" frameWidth="491" frameHeight="580"/>
+	<SubTexture name="Jadu idle0011" x="3554" y="10" width="474" height="579" frameX="-4" frameY="-1" frameWidth="491" frameHeight="580"/>
+	<SubTexture name="Jadu idle0012" x="3554" y="10" width="474" height="579" frameX="-4" frameY="-1" frameWidth="491" frameHeight="580"/>
+	<SubTexture name="Jadu idle0013" x="3554" y="10" width="474" height="579" frameX="-4" frameY="-1" frameWidth="491" frameHeight="580"/>
+	<SubTexture name="Jadu idle0014" x="3554" y="10" width="474" height="579" frameX="-4" frameY="-1" frameWidth="491" frameHeight="580"/>
+	<SubTexture name="Jadu left0000" x="10" y="600" width="518" height="516"/>
+	<SubTexture name="Jadu left0001" x="10" y="600" width="518" height="516"/>
+	<SubTexture name="Jadu left0002" x="538" y="600" width="513" height="516" frameX="-4" frameY="0" frameWidth="518" frameHeight="516"/>
+	<SubTexture name="Jadu left0003" x="538" y="600" width="513" height="516" frameX="-4" frameY="0" frameWidth="518" frameHeight="516"/>
+	<SubTexture name="Jadu left0004" x="1061" y="600" width="513" height="516" frameX="-4" frameY="0" frameWidth="518" frameHeight="516"/>
+	<SubTexture name="Jadu left0005" x="1061" y="600" width="513" height="516" frameX="-4" frameY="0" frameWidth="518" frameHeight="516"/>
+	<SubTexture name="Jadu left0006" x="1061" y="600" width="513" height="516" frameX="-4" frameY="0" frameWidth="518" frameHeight="516"/>
+	<SubTexture name="Jadu left0007" x="1061" y="600" width="513" height="516" frameX="-4" frameY="0" frameWidth="518" frameHeight="516"/>
+	<SubTexture name="Jadu left0008" x="1061" y="600" width="513" height="516" frameX="-4" frameY="0" frameWidth="518" frameHeight="516"/>
+	<SubTexture name="Jadu left0009" x="1061" y="600" width="513" height="516" frameX="-4" frameY="0" frameWidth="518" frameHeight="516"/>
+	<SubTexture name="Jadu left0010" x="1061" y="600" width="513" height="516" frameX="-4" frameY="0" frameWidth="518" frameHeight="516"/>
+	<SubTexture name="Jadu left0011" x="1061" y="600" width="513" height="516" frameX="-4" frameY="0" frameWidth="518" frameHeight="516"/>
+	<SubTexture name="Jadu left0012" x="1061" y="600" width="513" height="516" frameX="-4" frameY="0" frameWidth="518" frameHeight="516"/>
+	<SubTexture name="Jadu left0013" x="1061" y="600" width="513" height="516" frameX="-4" frameY="0" frameWidth="518" frameHeight="516"/>
+	<SubTexture name="Jadu left0014" x="1061" y="600" width="513" height="516" frameX="-4" frameY="0" frameWidth="518" frameHeight="516"/>
+	<SubTexture name="Jadu right0000" x="1584" y="600" width="550" height="559"/>
+	<SubTexture name="Jadu right0001" x="1584" y="600" width="550" height="559"/>
+	<SubTexture name="Jadu right0002" x="2144" y="600" width="539" height="557" frameX="0" frameY="-2" frameWidth="550" frameHeight="559"/>
+	<SubTexture name="Jadu right0003" x="2144" y="600" width="539" height="557" frameX="0" frameY="-2" frameWidth="550" frameHeight="559"/>
+	<SubTexture name="Jadu right0004" x="2693" y="600" width="541" height="557" frameX="0" frameY="-2" frameWidth="550" frameHeight="559"/>
+	<SubTexture name="Jadu right0005" x="2693" y="600" width="541" height="557" frameX="0" frameY="-2" frameWidth="550" frameHeight="559"/>
+	<SubTexture name="Jadu right0006" x="2693" y="600" width="541" height="557" frameX="0" frameY="-2" frameWidth="550" frameHeight="559"/>
+	<SubTexture name="Jadu right0007" x="2693" y="600" width="541" height="557" frameX="0" frameY="-2" frameWidth="550" frameHeight="559"/>
+	<SubTexture name="Jadu right0008" x="2693" y="600" width="541" height="557" frameX="0" frameY="-2" frameWidth="550" frameHeight="559"/>
+	<SubTexture name="Jadu right0009" x="2693" y="600" width="541" height="557" frameX="0" frameY="-2" frameWidth="550" frameHeight="559"/>
+	<SubTexture name="Jadu right0010" x="2693" y="600" width="541" height="557" frameX="0" frameY="-2" frameWidth="550" frameHeight="559"/>
+	<SubTexture name="Jadu right0011" x="2693" y="600" width="541" height="557" frameX="0" frameY="-2" frameWidth="550" frameHeight="559"/>
+	<SubTexture name="Jadu right0012" x="2693" y="600" width="541" height="557" frameX="0" frameY="-2" frameWidth="550" frameHeight="559"/>
+	<SubTexture name="Jadu right0013" x="2693" y="600" width="541" height="557" frameX="0" frameY="-2" frameWidth="550" frameHeight="559"/>
+	<SubTexture name="Jadu right0014" x="2693" y="600" width="541" height="557" frameX="0" frameY="-2" frameWidth="550" frameHeight="559"/>
+	<SubTexture name="Jadu swing0000" x="3244" y="600" width="603" height="518" frameX="-1" frameY="-11" frameWidth="604" frameHeight="529"/>
+	<SubTexture name="Jadu swing0001" x="3244" y="600" width="603" height="518" frameX="-1" frameY="-11" frameWidth="604" frameHeight="529"/>
+	<SubTexture name="Jadu swing0002" x="10" y="1169" width="562" height="527" frameX="0" frameY="-2" frameWidth="604" frameHeight="529"/>
+	<SubTexture name="Jadu swing0003" x="10" y="1169" width="562" height="527" frameX="0" frameY="-2" frameWidth="604" frameHeight="529"/>
+	<SubTexture name="Jadu swing0004" x="582" y="1169" width="560" height="526" frameX="0" frameY="-3" frameWidth="604" frameHeight="529"/>
+	<SubTexture name="Jadu swing0005" x="582" y="1169" width="560" height="526" frameX="0" frameY="-3" frameWidth="604" frameHeight="529"/>
+	<SubTexture name="Jadu swing0006" x="1152" y="1169" width="559" height="529" frameX="0" frameY="0" frameWidth="604" frameHeight="529"/>
+	<SubTexture name="Jadu swing0007" x="1152" y="1169" width="559" height="529" frameX="0" frameY="0" frameWidth="604" frameHeight="529"/>
+	<SubTexture name="Jadu swing0008" x="1152" y="1169" width="559" height="529" frameX="0" frameY="0" frameWidth="604" frameHeight="529"/>
+	<SubTexture name="Jadu swing0009" x="1152" y="1169" width="559" height="529" frameX="0" frameY="0" frameWidth="604" frameHeight="529"/>
+	<SubTexture name="Jadu swing0010" x="1152" y="1169" width="559" height="529" frameX="0" frameY="0" frameWidth="604" frameHeight="529"/>
+	<SubTexture name="Jadu swing0011" x="1152" y="1169" width="559" height="529" frameX="0" frameY="0" frameWidth="604" frameHeight="529"/>
+	<SubTexture name="Jadu swing0012" x="1152" y="1169" width="559" height="529" frameX="0" frameY="0" frameWidth="604" frameHeight="529"/>
+	<SubTexture name="Jadu swing0013" x="1152" y="1169" width="559" height="529" frameX="0" frameY="0" frameWidth="604" frameHeight="529"/>
+	<SubTexture name="Jadu swing0014" x="1152" y="1169" width="559" height="529" frameX="0" frameY="0" frameWidth="604" frameHeight="529"/>
+	<SubTexture name="Jadu up0000" x="1721" y="1169" width="488" height="637" frameX="0" frameY="0" frameWidth="489" frameHeight="637"/>
+	<SubTexture name="Jadu up0001" x="1721" y="1169" width="488" height="637" frameX="0" frameY="0" frameWidth="489" frameHeight="637"/>
+	<SubTexture name="Jadu up0002" x="2219" y="1169" width="484" height="631" frameX="-5" frameY="-6" frameWidth="489" frameHeight="637"/>
+	<SubTexture name="Jadu up0003" x="2219" y="1169" width="484" height="631" frameX="-5" frameY="-6" frameWidth="489" frameHeight="637"/>
+	<SubTexture name="Jadu up0004" x="2713" y="1169" width="484" height="630" frameX="-5" frameY="-7" frameWidth="489" frameHeight="637"/>
+	<SubTexture name="Jadu up0005" x="2713" y="1169" width="484" height="630" frameX="-5" frameY="-7" frameWidth="489" frameHeight="637"/>
+	<SubTexture name="Jadu up0006" x="2713" y="1169" width="484" height="630" frameX="-5" frameY="-7" frameWidth="489" frameHeight="637"/>
+	<SubTexture name="Jadu up0007" x="2713" y="1169" width="484" height="630" frameX="-5" frameY="-7" frameWidth="489" frameHeight="637"/>
+	<SubTexture name="Jadu up0008" x="2713" y="1169" width="484" height="630" frameX="-5" frameY="-7" frameWidth="489" frameHeight="637"/>
+	<SubTexture name="Jadu up0009" x="2713" y="1169" width="484" height="630" frameX="-5" frameY="-7" frameWidth="489" frameHeight="637"/>
+	<SubTexture name="Jadu up0010" x="2713" y="1169" width="484" height="630" frameX="-5" frameY="-7" frameWidth="489" frameHeight="637"/>
+	<SubTexture name="Jadu up0011" x="2713" y="1169" width="484" height="630" frameX="-5" frameY="-7" frameWidth="489" frameHeight="637"/>
+	<SubTexture name="Jadu up0012" x="2713" y="1169" width="484" height="630" frameX="-5" frameY="-7" frameWidth="489" frameHeight="637"/>
+	<SubTexture name="Jadu up0013" x="2713" y="1169" width="484" height="630" frameX="-5" frameY="-7" frameWidth="489" frameHeight="637"/>
+	<SubTexture name="Jadu up0014" x="2713" y="1169" width="484" height="630" frameX="-5" frameY="-7" frameWidth="489" frameHeight="637"/>
+	<SubTexture name="slash0000" x="3207" y="1169" width="490" height="342" frameX="0" frameY="0" frameWidth="490" frameHeight="343"/>
+	<SubTexture name="slash hit0000" x="1010" y="1816" width="529" height="349" frameX="-62" frameY="-138" frameWidth="683" frameHeight="606"/>
+	<SubTexture name="slash hit0001" x="1549" y="1816" width="560" height="444" frameX="-62" frameY="-79" frameWidth="683" frameHeight="606"/>
+	<SubTexture name="slash hit0002" x="2119" y="1816" width="628" height="549" frameX="-32" frameY="-22" frameWidth="683" frameHeight="606"/>
+	<SubTexture name="slash hit0003" x="2757" y="1816" width="683" height="606"/>
+	<SubTexture name="slash hit0004" x="3450" y="1816" width="0" height="0" frameX="-11" frameY="-148" frameWidth="683" frameHeight="606"/>
+	<SubTexture name="slash hit0005" x="3450" y="1816" width="0" height="0" frameX="-11" frameY="-148" frameWidth="683" frameHeight="606"/>
+	<SubTexture name="slash hit0006" x="3450" y="1816" width="0" height="0" frameX="-11" frameY="-148" frameWidth="683" frameHeight="606"/>
+	<SubTexture name="slash hit0007" x="3450" y="1816" width="0" height="0" frameX="-11" frameY="-148" frameWidth="683" frameHeight="606"/>
+	<SubTexture name="slash hit0008" x="3450" y="1816" width="0" height="0" frameX="-11" frameY="-148" frameWidth="683" frameHeight="606"/>
+</TextureAtlas>
