@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="thing.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="ben idle 2 instance 10000" x="10" y="10" width="261" height="425" frameX="0" frameY="0" frameWidth="272" frameHeight="425"/>
+	<SubTexture name="ben idle 2 instance 10001" x="10" y="10" width="261" height="425" frameX="0" frameY="0" frameWidth="272" frameHeight="425"/>
+	<SubTexture name="ben idle 2 instance 10002" x="281" y="10" width="261" height="424" frameX="-2" frameY="-1" frameWidth="272" frameHeight="425"/>
+	<SubTexture name="ben idle 2 instance 10003" x="281" y="10" width="261" height="424" frameX="-2" frameY="-1" frameWidth="272" frameHeight="425"/>
+	<SubTexture name="ben idle 2 instance 10004" x="552" y="10" width="262" height="423" frameX="-4" frameY="-2" frameWidth="272" frameHeight="425"/>
+	<SubTexture name="ben idle 2 instance 10005" x="552" y="10" width="262" height="423" frameX="-4" frameY="-2" frameWidth="272" frameHeight="425"/>
+	<SubTexture name="ben idle 2 instance 10006" x="824" y="10" width="263" height="422" frameX="-3" frameY="-3" frameWidth="272" frameHeight="425"/>
+	<SubTexture name="ben idle 2 instance 10007" x="824" y="10" width="263" height="422" frameX="-3" frameY="-3" frameWidth="272" frameHeight="425"/>
+	<SubTexture name="ben idle 2 instance 10008" x="1097" y="10" width="262" height="421" frameX="-6" frameY="-4" frameWidth="272" frameHeight="425"/>
+	<SubTexture name="ben idle 2 instance 10009" x="1097" y="10" width="262" height="421" frameX="-6" frameY="-4" frameWidth="272" frameHeight="425"/>
+	<SubTexture name="ben idle 2 instance 10010" x="1369" y="10" width="262" height="421" frameX="-7" frameY="-4" frameWidth="272" frameHeight="425"/>
+	<SubTexture name="ben idle 2 instance 10011" x="1369" y="10" width="262" height="421" frameX="-7" frameY="-4" frameWidth="272" frameHeight="425"/>
+	<SubTexture name="ben idle 2 instance 10012" x="1641" y="10" width="262" height="421" frameX="-7" frameY="-4" frameWidth="272" frameHeight="425"/>
+	<SubTexture name="ben idle 2 instance 10013" x="1641" y="10" width="262" height="421" frameX="-7" frameY="-4" frameWidth="272" frameHeight="425"/>
+	<SubTexture name="ben idle 2 instance 10014" x="1641" y="10" width="262" height="421" frameX="-7" frameY="-4" frameWidth="272" frameHeight="425"/>
+	<SubTexture name="ben idle 2 instance 10015" x="1641" y="10" width="262" height="421" frameX="-7" frameY="-4" frameWidth="272" frameHeight="425"/>
+	<SubTexture name="ben idle 2 instance 10016" x="1641" y="10" width="262" height="421" frameX="-7" frameY="-4" frameWidth="272" frameHeight="425"/>
+	<SubTexture name="ben idle 2 instance 10017" x="10" y="445" width="265" height="421" frameX="-7" frameY="-4" frameWidth="272" frameHeight="425"/>
+	<SubTexture name="ben idle 2 instance 10018" x="10" y="445" width="265" height="421" frameX="-7" frameY="-4" frameWidth="272" frameHeight="425"/>
+	<SubTexture name="ben idle 2 instance 10019" x="285" y="445" width="262" height="422" frameX="-5" frameY="-3" frameWidth="272" frameHeight="425"/>
+	<SubTexture name="ben idle 2 instance 10020" x="285" y="445" width="262" height="422" frameX="-5" frameY="-3" frameWidth="272" frameHeight="425"/>
+	<SubTexture name="ben idle 2 instance 10021" x="557" y="445" width="260" height="423" frameX="-3" frameY="-2" frameWidth="272" frameHeight="425"/>
+	<SubTexture name="ben idle 2 instance 10022" x="557" y="445" width="260" height="423" frameX="-3" frameY="-2" frameWidth="272" frameHeight="425"/>
+	<SubTexture name="ben idle 2 instance 10023" x="827" y="445" width="262" height="424" frameX="-2" frameY="-1" frameWidth="272" frameHeight="425"/>
+	<SubTexture name="ben idle 2 instance 10024" x="827" y="445" width="262" height="424" frameX="-2" frameY="-1" frameWidth="272" frameHeight="425"/>
+	<SubTexture name="ben idle 2 instance 10025" x="1099" y="445" width="261" height="425" frameX="-1" frameY="0" frameWidth="272" frameHeight="425"/>
+	<SubTexture name="ben idle 2 instance 10026" x="1099" y="445" width="261" height="425" frameX="-1" frameY="0" frameWidth="272" frameHeight="425"/>
+	<SubTexture name="ben idle 2 instance 10027" x="1370" y="445" width="262" height="425" frameX="0" frameY="0" frameWidth="272" frameHeight="425"/>
+	<SubTexture name="ben idle 2 instance 10028" x="1370" y="445" width="262" height="425" frameX="0" frameY="0" frameWidth="272" frameHeight="425"/>
+	<SubTexture name="ben idle 2 instance 10029" x="10" y="10" width="261" height="425" frameX="0" frameY="0" frameWidth="272" frameHeight="425"/>
+</TextureAtlas>
