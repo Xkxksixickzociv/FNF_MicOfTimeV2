@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="uwu.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ben crying0000" x="0" y="0" width="218" height="291"/>
+	<SubTexture name="ben crying0001" x="0" y="0" width="218" height="291"/>
+	<SubTexture name="ben crying0002" x="0" y="0" width="218" height="291"/>
+	<SubTexture name="ben crying0003" x="0" y="0" width="218" height="291"/>
+	<SubTexture name="ben crying0004" x="0" y="0" width="218" height="291"/>
+	<SubTexture name="ben crying0005" x="218" y="0" width="218" height="283" frameX="0" frameY="-8" frameWidth="218" frameHeight="291"/>
+	<SubTexture name="ben crying0006" x="218" y="0" width="218" height="283" frameX="0" frameY="-8" frameWidth="218" frameHeight="291"/>
+	<SubTexture name="ben crying0007" x="218" y="0" width="218" height="283" frameX="0" frameY="-8" frameWidth="218" frameHeight="291"/>
+	<SubTexture name="ben crying0008" x="218" y="0" width="218" height="283" frameX="0" frameY="-8" frameWidth="218" frameHeight="291"/>
+	<SubTexture name="ben crying0009" x="218" y="0" width="218" height="283" frameX="0" frameY="-8" frameWidth="218" frameHeight="291"/>
+</TextureAtlas>
